@@ -29,7 +29,8 @@ The Museum brings computer history to life through large-scale exhibits, an accl
 * [computerhistory press](http://www.computerhistory.org/press/ms-source-code.html)
 
 ## License
-`MICROSOFT RESEARCH LICENSE AGREEMENT | Microsoft DOS V1.1 and V2.0`
+**MICROSOFT RESEARCH LICENSE AGREEMENT | Microsoft DOS V1.1 and V2.0**
+
 To access this material, you must agree to the terms of the license displayed here, which permits only non-commercial use and does not give you the right to license it to third parties by posting copies elsewhere on the web.
 
 These license terms are an agreement between Microsoft Corporation and you. Please read them. They apply to the software named above, which includes the media on which you received it, if any.
